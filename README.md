@@ -3,8 +3,7 @@
 **List of available scenarios:**
 | Name Scenarios | Type | Size | Download |
 | --- | --- | --- | ---|
-| Kingdom VS Legion | .SCN | 100 KB | [Download Kingdom VS Legion](https://link-url-here.org) |
-| Cheat Battle | .SCN | 1000 GB | [Download Cheat Battle](https://link-url-here.org) |
+| Max Resources Battle | .SCN | 26 KB | [Download Max Resources Battle](https://drive.google.com/file/d/1HZulF2SbLt7q6t-0EPe6DHSHBCBl_PUb/view?usp=share_link) |
 ### - PASSWORD UNZIP:
 ```
 450422878
